@@ -1,7 +1,7 @@
 //Subsystem
 package Deposit_ATM;
 
-import System.Account;
+import system.Account;
 
 public class Deposit{
 	private double depAmt;
