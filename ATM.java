@@ -4,7 +4,8 @@ import java.util.Scanner;
 //import Deposit.*;
 import shared.*;
 
-
+//this is AD speaking to you from hell
+//i like potatoes 
 public class ATM{
 	
 	public void useATM() {
