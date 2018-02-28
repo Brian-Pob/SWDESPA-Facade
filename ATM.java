@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //import Withdrawal.*;
 //import Deposit.*;
-//import Shared.*;
+import shared.*;
 
 
 public class ATM{
@@ -31,9 +31,11 @@ public class ATM{
 		}
 	}
 	public void withdraw(){
+		
 	}
 
 	public void deposit(){
+		
 	}
 
 	public void inquireBalance(){
