@@ -4,10 +4,10 @@ package shared;
 import java.util.Scanner;
 
 public class Numpad{
-	public float inputNum(){
+	public double inputNum(){
 		Scanner sc = new Scanner(System.in);
 		
-		float input = Float.parseFloat(sc.nextLine());
+		double input = Double.parseDouble(sc.nextLine());
 		
 		sc.close();
 		return input;
