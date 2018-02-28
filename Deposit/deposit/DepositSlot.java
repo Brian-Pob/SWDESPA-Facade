@@ -1,11 +1,13 @@
 //Subsystem
 package deposit;
 public class DepositSlot{
-	public void receiveCash(float money){
-
+	private double depAmt;
+	
+	public void receiveCash(double money){
+		this.depAmt = money;
 	}
 
-	public void addToBalance(float money){
-
+	public void addToBalance(double money){
+		money += depAmt;
 	}
 }
