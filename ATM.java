@@ -1,8 +1,8 @@
 import java.util.Scanner;
-
+import shared.*;
+import system.Account;
 //import Withdrawal.*;
 //import Deposit.*;
-import shared.*;
 
 //this is AD speaking to you from hell
 //i like potatoes 
