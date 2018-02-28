@@ -1,4 +1,5 @@
-package system;
+package System;
+
 public class Account {
 	private String name;
 	private int pin;
