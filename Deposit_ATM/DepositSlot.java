@@ -3,7 +3,7 @@ package Deposit_ATM;
 
 import system.Account;
 
-public class Deposit{
+public class DepositSlot{
 	private double depAmt;
 	
 	public void receiveCash(double money){
